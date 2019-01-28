@@ -1,0 +1,36 @@
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\bin\Debug\Library.dll.config
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\bin\Debug\Library.dll
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\bin\Debug\Library.pdb
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\bin\Debug\EntityFramework.dll
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\bin\Debug\EntityFramework.xml
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\obj\Debug\Library.dll
+C:\Users\moi\Downloads\CSHARP\erxercie_csharp\Library\obj\Debug\Library.pdb
+D:\Bureau\CSHARP\erxercie_csharp\Library\bin\Debug\Library.dll.config
+D:\Bureau\CSHARP\erxercie_csharp\Library\bin\Debug\Library.dll
+D:\Bureau\CSHARP\erxercie_csharp\Library\bin\Debug\Library.pdb
+D:\Bureau\CSHARP\erxercie_csharp\Library\bin\Debug\EntityFramework.dll
+D:\Bureau\CSHARP\erxercie_csharp\Library\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bureau\CSHARP\erxercie_csharp\Library\bin\Debug\EntityFramework.xml
+D:\Bureau\CSHARP\erxercie_csharp\Library\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bureau\CSHARP\erxercie_csharp\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Bureau\CSHARP\erxercie_csharp\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Bureau\CSHARP\erxercie_csharp\Library\obj\Debug\Library.csproj.CopyComplete
+D:\Bureau\CSHARP\erxercie_csharp\Library\obj\Debug\Library.dll
+D:\Bureau\CSHARP\erxercie_csharp\Library\obj\Debug\Library.pdb
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\bin\Debug\Library.dll.config
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\bin\Debug\Library.dll
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\bin\Debug\Library.pdb
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\bin\Debug\EntityFramework.dll
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\bin\Debug\EntityFramework.xml
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\obj\Debug\Library.csproj.CopyComplete
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\obj\Debug\Library.dll
+D:\Bureau\CSHARP - Copie\erxercie_csharp\Library\obj\Debug\Library.pdb

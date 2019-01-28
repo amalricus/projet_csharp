@@ -1,0 +1,17 @@
+﻿<Window x:Class="erxercie_csharp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:erxercie_csharp"
+        mc:Ignorable="d"
+        Title="LoginPage" Height="345.412" Width="940.092">
+    <Grid Background="{DynamicResource {x:Static SystemColors.ActiveBorderBrushKey}}">
+        <Button Content="Ok" HorizontalAlignment="Left" Margin="408,252,0,0" VerticalAlignment="Top" Width="70" Height="23" Click="Button_Click" Background="#FF91B0E0" RenderTransformOrigin="0.686,2.096"/>
+        <Label Content="Login" HorizontalAlignment="Left" Margin="435,31,0,0" VerticalAlignment="Top" Width="36"/>
+        <Label Content="Mot de passe" HorizontalAlignment="Left" Margin="408,127,0,0" VerticalAlignment="Top" Width="180"/>
+        <TextBox x:Name="login" HorizontalAlignment="Left" Height="48" Margin="69,62,0,0" TextWrapping="Wrap" Text="Veuillez entrer votre login" VerticalAlignment="Top" Width="794" Background="#FF91B0E0"/>
+        <TextBox x:Name="mdp" HorizontalAlignment="Left" Height="48" Margin="69,171,0,0" TextWrapping="Wrap" Text="Veuillez entrer votre mot de passe" VerticalAlignment="Top" Width="794" Background="#FF91B0E0" RenderTransformOrigin="0.544,4.516"/>
+
+    </Grid>
+</Window>
